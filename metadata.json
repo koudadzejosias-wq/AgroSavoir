@@ -1,0 +1,6 @@
+{
+  "name": "AgroSavoir",
+  "description": "Plateforme numérique d'apprentissage agropastoral (Agriculture, Élevage, Pisciculture, Agrobusiness) avec Assistant IA AgroBot, cours multimédias, ressources téléchargeables, mentorat et certifications.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

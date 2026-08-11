@@ -1,0 +1,18 @@
+{
+  "short_name": "AgroSavoir",
+  "name": "AgroSavoir Togo - Platforme Agropastorale",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#064e3b",
+  "theme_color": "#059669",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "description": "Plateforme numérique nationale de formation agropastorale utilisable 100% hors-ligne sans connexion internet."
+}
